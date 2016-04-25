@@ -1,0 +1,1 @@
+GuranteedANP Server (Version: nothing)
