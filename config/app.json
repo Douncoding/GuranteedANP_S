@@ -1,0 +1,8 @@
+{
+  "development": {
+    "port": 50100
+  },
+  "releases": {
+    "port": 50100
+  }
+}
